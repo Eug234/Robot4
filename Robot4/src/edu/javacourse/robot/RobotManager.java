@@ -4,6 +4,7 @@ import edu.javacourse.robot.ui.RobotFrame;
 import javax.swing.JFrame;
 
 public class RobotManager
+    //omglol
 {
     public static void main(String[] args) {
         // Количество сторон многоугольника
